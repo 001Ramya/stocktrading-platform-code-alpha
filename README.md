@@ -1,0 +1,1 @@
+# stocktrading-platform-code-alpha
